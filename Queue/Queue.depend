@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666110562 source:d:\test_c_programs\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Plateform_DataTypes.h"
+	"Queue.h"
+
+1665651868 d:\test_c_programs\queue\plateform_datatypes.h
+
+1666113474 d:\test_c_programs\queue\queue.h
+	"Plateform_DataTypes.h"
+
